@@ -12,7 +12,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 |------|---------|----------------------------------------|------------------|
 | 1    | ★ ★     | Report Repair                          | 2-sum. 3-sum.
 | 2    | ★ ★     | Password Philosophy                    | Instance counting. XOR.
-| 3    | ☆ ☆     |
+| 3    | ★ ★     | Toboggan Trajectory                    | Modulus operator.
 | 4    | ☆ ☆     |
 | 5    | ☆ ☆     |
 | 6    | ☆ ☆     |
