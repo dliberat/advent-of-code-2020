@@ -13,9 +13,9 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 1    | ★ ★     | Report Repair                          | 2-sum. 3-sum.
 | 2    | ★ ★     | Password Philosophy                    | Instance counting. XOR.
 | 3    | ★ ★     | Toboggan Trajectory                    | Modulus operator.
-| 4    | ☆ ☆     |
-| 5    | ☆ ☆     |
-| 6    | ☆ ☆     |
+| 4    | ★ ★     | Passport Processing                    | Field validation.
+| 5    | ☆ ☆     | Binary Boarding
+| 6    | ☆ ☆     | Custom Customs
 | 7    | ☆ ☆     |
 | 8    | ☆ ☆     |
 | 9    | ☆ ☆     |
