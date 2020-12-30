@@ -14,7 +14,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 2    | ★ ★     | Password Philosophy                    | Instance counting. XOR.
 | 3    | ★ ★     | Toboggan Trajectory                    | Modulus operator.
 | 4    | ★ ★     | Passport Processing                    | Field validation.
-| 5    | ☆ ☆     | Binary Boarding
+| 5    | ★ ★     | Binary Boarding                        | Bitshifting
 | 6    | ☆ ☆     | Custom Customs
 | 7    | ☆ ☆     |
 | 8    | ☆ ☆     |
@@ -28,10 +28,10 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 16   | ☆ ☆     |
 | 17   | ☆ ☆     |
 | 18   | ☆ ☆     |
-| 19   | ☆ ☆     |
-| 20   | ☆ ☆     |
-| 21   | ☆ ☆     |
-| 22   | ☆ ☆     |
-| 23   | ☆ ☆     |
-| 24   | ☆ ☆     |
-| 25   | ☆ ☆     |
+| 19   | ☆ ☆     | Monster Messages
+| 20   | ☆ ☆     | Jurassic Jigsaw
+| 21   | ☆ ☆     | Allergen Assessment
+| 22   | ☆ ☆     | Crab Combat
+| 23   | ☆ ☆     | Crab Cups
+| 24   | ☆ ☆     | Lobby Layout
+| 25   | ☆ ☆     | Combo Breaker
