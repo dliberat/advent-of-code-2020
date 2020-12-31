@@ -16,7 +16,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 4    | ★ ★     | Passport Processing      | Field validation.
 | 5    | ★ ★     | Binary Boarding          | Bitshifting
 | 6    | ★ ★     | Custom Customs           | Instance counting.
-| 7    | ☆ ☆     | Handy Haversacks         | 
+| 7    | ★ ★     | Handy Haversacks         | Depth-first serach
 | 8    | ☆ ☆     | Handheld Halting         |
 | 9    | ☆ ☆     | Encoding Error           |
 | 10   | ☆ ☆     | Adapter Array            |
