@@ -17,8 +17,8 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 5    | ★ ★     | Binary Boarding          | Bitshifting
 | 6    | ★ ★     | Custom Customs           | Instance counting.
 | 7    | ★ ★     | Handy Haversacks         | Depth-first serach
-| 8    | ☆ ☆     | Handheld Halting         |
-| 9    | ☆ ☆     | Encoding Error           |
+| 8    | ★ ★     | Handheld Halting         | Program counters. Loop detection.
+| 9    | ★ ★     | Encoding Error           | Windowed functions. Continguous sum.
 | 10   | ☆ ☆     | Adapter Array            |
 | 11   | ☆ ☆     | Seating System           |
 | 12   | ☆ ☆     | Rain Risk                |
