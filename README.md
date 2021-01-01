@@ -19,7 +19,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 7    | ★ ★     | Handy Haversacks         | Depth-first serach
 | 8    | ★ ★     | Handheld Halting         | Program counters. Loop detection.
 | 9    | ★ ★     | Encoding Error           | Windowed functions. Continguous sum.
-| 10   | ☆ ☆     | Adapter Array            |
+| 10   | ★ ★     | Adapter Array            | Depth-first search. Dynamic programming.
 | 11   | ☆ ☆     | Seating System           |
 | 12   | ☆ ☆     | Rain Risk                |
 | 13   | ☆ ☆     | Shuttle Search           |
