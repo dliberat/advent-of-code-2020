@@ -18,10 +18,10 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 6    | ★ ★     | Custom Customs           | Instance counting.
 | 7    | ★ ★     | Handy Haversacks         | Depth-first serach
 | 8    | ★ ★     | Handheld Halting         | Program counters. Loop detection.
-| 9    | ★ ★     | Encoding Error           | Windowed functions. Continguous sum.
+| 9    | ★ ★     | Encoding Error           | Windowed functions. Contiguous sum.
 | 10   | ★ ★     | Adapter Array            | Depth-first search. Dynamic programming.
 | 11   | ★ ★     | Seating System           | Conway's Game of Life
-| 12   | ☆ ☆     | Rain Risk                |
+| 12   | ★ ★     | Rain Risk                | Vector arithmetic. Rotation matrices.
 | 13   | ☆ ☆     | Shuttle Search           |
 | 14   | ☆ ☆     | Docking Data             |
 | 15   | ☆ ☆     | Rambunctious Recitation  |
