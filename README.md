@@ -24,7 +24,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 12   | ★ ★     | Rain Risk                | Vector arithmetic. Rotation matrices.
 | 13   | ★ ☆     | Shuttle Search           |
 | 14   | ★ ★     | Docking Data             | Bitmasks
-| 15   | ☆ ☆     | Rambunctious Recitation  |
+| 15   | ★ ★     | Rambunctious Recitation  | Hashmap
 | 16   | ☆ ☆     | Ticket Translation       |
 | 17   | ☆ ☆     | Conway Cubes             |
 | 18   | ☆ ☆     | Operation Order          |
