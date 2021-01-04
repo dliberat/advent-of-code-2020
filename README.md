@@ -23,7 +23,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 11   | ★ ★     | Seating System           | Conway's Game of Life
 | 12   | ★ ★     | Rain Risk                | Vector arithmetic. Rotation matrices.
 | 13   | ★ ☆     | Shuttle Search           |
-| 14   | ☆ ☆     | Docking Data             |
+| 14   | ★ ★     | Docking Data             | Bitmasks
 | 15   | ☆ ☆     | Rambunctious Recitation  |
 | 16   | ☆ ☆     | Ticket Translation       |
 | 17   | ☆ ☆     | Conway Cubes             |
