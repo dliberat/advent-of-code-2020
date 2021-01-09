@@ -27,7 +27,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 15   | ★ ★     | Rambunctious Recitation  | Hashmap
 | 16   | ★ ★     | Ticket Translation       | Truth tables. Process of elimination.
 | 17   | ☆ ☆     | Conway Cubes             |
-| 18   | ☆ ☆     | Operation Order          |
+| 18   | ★ ★     | Operation Order          | Lexical parsing
 | 19   | ☆ ☆     | Monster Messages         |
 | 20   | ☆ ☆     | Jurassic Jigsaw          |
 | 21   | ☆ ☆     | Allergen Assessment      |
