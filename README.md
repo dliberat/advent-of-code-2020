@@ -25,7 +25,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 13   | ★ ☆     | Shuttle Search           |
 | 14   | ★ ★     | Docking Data             | Bitmasks
 | 15   | ★ ★     | Rambunctious Recitation  | Hashmap
-| 16   | ☆ ☆     | Ticket Translation       |
+| 16   | ★ ★     | Ticket Translation       | Truth tables. Process of elimination.
 | 17   | ☆ ☆     | Conway Cubes             |
 | 18   | ☆ ☆     | Operation Order          |
 | 19   | ☆ ☆     | Monster Messages         |
