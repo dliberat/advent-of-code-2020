@@ -26,7 +26,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 14   | ★ ★     | Docking Data             | Bitmasks
 | 15   | ★ ★     | Rambunctious Recitation  | Hashmap
 | 16   | ★ ★     | Ticket Translation       | Truth tables. Process of elimination.
-| 17   | ☆ ☆     | Conway Cubes             |
+| 17   | ★ ★     | Conway Cubes             | Conway's Game of Life. Infinite 4D grid.
 | 18   | ★ ★     | Operation Order          | Lexical parsing
 | 19   | ☆ ☆     | Monster Messages         |
 | 20   | ☆ ☆     | Jurassic Jigsaw          |
