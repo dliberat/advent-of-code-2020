@@ -1,6 +1,8 @@
 package main
 
-import "testing"
+import (
+	"testing"
+)
 
 func TestAddToBottomOrdering(t *testing.T) {
 	c1 := card{val: 1}
@@ -202,8 +204,7 @@ func TestPlayRound01(t *testing.T) {
 	}
 }
 
-func TestScore(t *testing.T) {
-	nums := []int{3, 2, 10, 6, 8, 5, 9, 4, 7, 1}
+func buildDeck(nums []int) deck {
 	cards := make([]card, len(nums))
 	for i, num := range nums {
 		cards[i] = card{val: num}
@@ -212,8 +213,48 @@ func TestScore(t *testing.T) {
 	for i := range cards {
 		d.addToBottom(&(cards[i]))
 	}
+	return d
+}
+
+func TestScore(t *testing.T) {
+	nums := []int{3, 2, 10, 6, 8, 5, 9, 4, 7, 1}
+	d := buildDeck(nums)
 	score := d.score()
 	if score != 306 {
 		t.Errorf("306 != %d", score)
+	}
+}
+
+func TestCloneToDepth01(t *testing.T) {
+	nums := []int{3, 2, 10, 6, 8, 5, 9, 4, 7, 1}
+	d := buildDeck(nums)
+	clone := d.cloneToDepth(3)
+	if d.count != 10 || clone.count != 3 {
+		t.Errorf("Expected lengths 10 and 3 but got %d and %d", d.count, clone.count)
+	}
+
+	d.popHead()
+	if clone.head.val != 3 {
+		t.Errorf("Popping from the original deck should not affect the clone.")
+	}
+
+	clone.popHead()
+	clone.popHead()
+	if d.head.val != 2 {
+		t.Error("Popping fron the clone should not affect the original deck.")
+	}
+}
+
+func TestRecursiveCombat(t *testing.T) {
+	p1 := buildDeck([]int{9, 2, 6, 3, 1})
+	p2 := buildDeck([]int{5, 8, 4, 7, 10})
+	winner := recursiveCombat(&p1, &p2)
+	if winner != 2 {
+		t.Errorf("Expected P2 to win but got %d", winner)
+	}
+	expected := []int{7, 5, 6, 2, 4, 1, 10, 8, 9, 3}
+	actual := p2.toIntSlice()
+	if !intSliceEqual(expected, actual) {
+		t.Errorf("P2 deck is not in the expected order: %v", actual)
 	}
 }

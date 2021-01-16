@@ -31,7 +31,7 @@ Complete the calendar yourself, at [https://adventofcode.com/2020/](https://adve
 | 19   | ☆ ☆     | Monster Messages         |
 | 20   | ☆ ☆     | Jurassic Jigsaw          |
 | 21   | ☆ ☆     | Allergen Assessment      |
-| 22   | ☆ ☆     | Crab Combat              |
+| 22   | ★ ★     | Crab Combat              | Doubly-linked list
 | 23   | ☆ ☆     | Crab Cups                |
 | 24   | ☆ ☆     | Lobby Layout             |
 | 25   | ☆ ☆     | Combo Breaker            |
