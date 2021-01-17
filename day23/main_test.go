@@ -58,25 +58,6 @@ func TestFindTail(t *testing.T) {
 	}
 }
 
-func TestContains(t *testing.T) {
-	nodes := parseInput("186524973")
-	head := &nodes[0]
-	trues := []int{1, 2, 3, 4, 5, 6, 7, 8, 9}
-	falses := []int{0, -1, 10}
-	for _, n := range trues {
-		if !contains(head, n) {
-			t.Errorf("Linked list should contain %d", n)
-			return
-		}
-	}
-	for _, n := range falses {
-		if contains(head, n) {
-			t.Errorf("Linked list should not contain %d", n)
-			return
-		}
-	}
-}
-
 func TestInsert01(t *testing.T) {
 	nodes := parseInput("13")
 	toInsert := parseInput("2")
